@@ -12,12 +12,12 @@ I'm a passionate developer from [India] who loves building apps and solving prob
 - Git,Github
 
 ## 📊 GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
+![Sumanth GitHub Stats](https://github.com/Sumanth4411)
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Portfolio](https://your-website.com)
-- [LeetCode](https://leetcode.com/yourusername)
+- [Codechef](https://leetcode.com/yourusername)
 
 <!--
 **Sumanth4411/Sumanth4411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
