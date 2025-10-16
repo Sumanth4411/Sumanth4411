@@ -15,9 +15,9 @@ I'm a passionate developer from [India] who loves building apps and solving prob
 ![Sumanth GitHub Stats](https://github.com/Sumanth4411)
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Portfolio](https://your-website.com)
-- [Codechef](https://leetcode.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/syrigapu-sumanth-8a2a072b6/)
+- [Portfolio](https://sumanthai.netlify.app/)
+  - [Codechef](https://www.codechef.com/users/sumanth4411)
 
 <!--
 **Sumanth4411/Sumanth4411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
