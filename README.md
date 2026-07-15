@@ -34,19 +34,19 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,js" />
+<img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=supabase,firebase,nodejs" />
+<img src="https://skillicons.dev/icons?i=supabase,firebase" />
 </p>
 
 ### Tools
@@ -137,13 +137,6 @@ Career guidance platform helping students discover
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sumanth4411&theme=algolia&margin-w=15&margin-h=15&column=4"/>
-
-</p>
 
 ---
 
