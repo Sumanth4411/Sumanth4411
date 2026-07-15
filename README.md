@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm S. Sumanth Kumar</h1>
 
-<img src="https://raw.githubusercontent.com/Sumanth4411/Sumanth4411/main/profile.jpg" width="220"/>
+<img src="file_000000003ac0722fae2805bda0902464.png" width="220"/> 
 
 <h3 align="center">Computer Science (AI & ML) Undergraduate | Full Stack Developer | AI Enthusiast</h3>
 
