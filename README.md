@@ -11,16 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+ML+Student+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A7%A0;Building+Practical+AI+Applications+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <b>AI & ML Student | Web Developer | Building Practical AI-Powered Applications</b>
-</p>
-
-<p align="center">
-  🎓 B.Tech CSE (AI & ML) &nbsp; • &nbsp;
-  🤖 AI/ML &nbsp; • &nbsp;
-  🌐 Web Development &nbsp; • &nbsp;
-  🚀 Open to Opportunities
-</p>
 
 <p align="center">
   <a href="SYRIGAPU SUMANTH KUMAR AI.pdf">
@@ -34,7 +24,7 @@
 
 
 <p align="center">
-  🤖 AI/ML Enthusiast &nbsp; | &nbsp; 💻 Web Developer &nbsp; | &nbsp; 🚀 Tech Enthusiast
+  🎓 B.Tech CSE (AI & ML) &nbsp; • &nbsp; | 🤖 AI/ML Enthusiast &nbsp; | &nbsp; 💻 Full stack Developer &nbsp; | &nbsp; 🚀 Tech Enthusiast |   🚀 Open to Opportunities
 </p>
 
 <p align="center">
