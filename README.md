@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK">
+  <a href="SYRIGAPU SUMANTH KUMAR AI.pdf">
     <img src="https://img.shields.io/badge/📄%20Resume-Download-red?style=for-the-badge">
   </a>
   
