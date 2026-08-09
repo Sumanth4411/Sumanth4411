@@ -1,21 +1,28 @@
 # 👋 Hi, I'm S. Sumanth Kumar
 
-### 🎓 Computer Science (AI & ML) Undergraduate | 🤖 AI/ML Enthusiast | 💻 Web Developer
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sumanth4411/Sumanth4411/main/file_000000003ac0722fae2805bda0902464.png" 
+       alt="S. Sumanth Kumar" 
+       width="180"
+       style="border-radius: 50%;">
+</p>
+
+<h3 align="center">
+  🎓 Computer Science (AI & ML) Undergraduate
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Undergraduate;AI+%26+ML+Enthusiast;Web+Developer;Building+Real-World+Projects;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+  🤖 AI/ML Enthusiast &nbsp; | &nbsp; 💻 Web Developer &nbsp; | &nbsp; 🚀 Tech Enthusiast
 </p>
 
 <p align="center">
   <a href="https://github.com/Sumanth4411">
-    <img src="https://komarev.com/ghpvc/?username=Sumanth4411&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-Sumanth4411-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://github.com/Sumanth4411?tab=followers">
-    <img src="https://img.shields.io/github/followers/Sumanth4411?label=Followers&style=flat" alt="GitHub Followers"/>
+  <a href="https://www.linkedin.com/in/syrigapu-sumanth-8a2a072b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
-
----
 
 ## 👨‍💻 About Me
 
