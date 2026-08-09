@@ -7,6 +7,30 @@
        style="border-radius: 50%;">
 </p>
 
+<p align="center">
+  <b>AI & ML Student | Web Developer | Building Practical AI-Powered Applications</b>
+</p>
+
+<p align="center">
+  🎓 B.Tech CSE (AI & ML) &nbsp; • &nbsp;
+  🤖 AI/ML &nbsp; • &nbsp;
+  🌐 Web Development &nbsp; • &nbsp;
+  🚀 Open to Opportunities
+</p>
+
+<p align="center">
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/📄%20Resume-Download-red?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/syrigapu-sumanth-8a2a072b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://rad-elf-8687ac.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-green?style=for-the-badge">
+  </a>
+</p>
+
+
 <h3 align="center">
   🎓 Computer Science (AI & ML) Undergraduate
 </h3>
