@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/📄%20Resume-Download-red?style=for-the-badge">
   </a>
   
-  <a href="https://rad-elf-8687ac.netlify.app/">
+  <a href="https://sumanthai.netlify.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-green?style=for-the-badge">
   </a>
 </p>
