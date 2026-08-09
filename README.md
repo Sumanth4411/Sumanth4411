@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+ML+Student+%F0%9F%A4%96;Web+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A7%A0;Building+Practical+AI+Applications+%F0%9F%9A%80;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing Animation" />
+</p>
+
+<p align="center">
   <b>AI & ML Student | Web Developer | Building Practical AI-Powered Applications</b>
 </p>
 
