@@ -1,194 +1,239 @@
-<h1 align="center">Hi 👋, I'm S. Sumanth Kumar</h1>
+# 👋 Hi, I'm S. Sumanth Kumar
 
-<img src="file_000000003ac0722fae2805bda0902464.png" width="220"/> 
-
-<h3 align="center">Computer Science (AI & ML) Undergraduate | Full Stack Developer | AI Enthusiast</h3>
+### 🎓 Computer Science (AI & ML) Undergraduate | 🤖 AI/ML Enthusiast | 💻 Web Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=AI+%26+ML+Student;Full+Stack+Developer;Python+Programmer;Open+Source+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Undergraduate;AI+%26+ML+Enthusiast;Web+Developer;Building+Real-World+Projects;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sumanth4411">
+    <img src="https://komarev.com/ghpvc/?username=Sumanth4411&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Sumanth4411?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sumanth4411?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering (AI & ML)
+🎓 B.Tech Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**.
 
-💡 Passionate about Artificial Intelligence, Machine Learning and Full Stack Development.
+💡 Passionate about **Artificial Intelligence, Machine Learning, Web Development and emerging technologies**.
 
-🚀 I enjoy building real-world applications that solve meaningful problems.
+🚀 I enjoy building practical projects that solve real-world problems.
 
-🌱 Currently learning
-- Machine Learning
-- Deep Learning
-- React
-- Supabase
-- Cloud Technologies
+🌱 Currently learning:
 
-🎯 Goal
-- Become an software engineer
-- Contribute to Open Source
-- Build impactful AI products
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Deep Learning
+* 🌐 Web Development
+* ⚛️ React
+* 🗄️ Supabase
+* ☁️ Cloud & emerging technologies
+
+🎯 **Goals**
+
+* Become a skilled Software Engineer
+* Build impactful AI-powered applications
+* Contribute to Open Source
+* Continuously learn new technologies
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
 </p>
 
-### Frontend
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
 </p>
 
-### Backend & Database
+### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
 </p>
 
-### Tools
+
+
+### 🗄️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,netlify,vercel" />
 </p>
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-### 🚦 Traffic Rules & Road Safety Website
+## 📄 Resume Automation System
 
-✔ Road Signs
+A web-based AI-assisted resume analysis platform that helps students improve their resumes according to a specific job description.
 
-✔ Traffic Signals
+**Features:**
 
-✔ Safety Instructions
+* 📄 Resume analysis
+* 🎯 Job Description matching
+* 📊 Resume compatibility score
+* 💡 Resume improvement suggestions
+* 📝 Interview preparation questions
+* 🎓 Student-focused career guidance
 
-✔ Interactive Quiz
-
-✔ Educational Platform
-
----
-
-### 💬 Real-Time Chat Application
-
-✔ Instant Messaging
-
-✔ Responsive UI
-
-✔ Authentication
-
-✔ Modern Web Technologies
+**Tech:** `HTML` `CSS` `JavaScript` `Supabase`
 
 ---
 
-### 🔥 Forest Fire Detection using Deep Learning
+## 🚦 Traffic Rules & Road Safety Website
 
-✔ Image Classification
+An educational platform designed to help users learn traffic rules and road safety.
 
-✔ CNN Model
+**Features:**
 
-✔ TensorFlow & Keras
+* 🚧 Road signs
+* 🚦 Traffic signals
+* 🛡️ Safety instructions
+* 📝 Interactive quiz
+* 📚 Educational resources
 
-✔ Fire Detection System
-
----
-
-### 📈 Ai Smart interview system
-
-✔ Machine Learning
-
-✔ Supabase
-
-✔ APi
-
+**Tech:** `HTML` `CSS` `JavaScript`
 
 ---
 
-### 🎯 Level Up Platform
+## 🔥 Forest Fire Detection using Deep Learning
 
-Career guidance platform helping students discover
+An AI-based project for detecting forest fires from images.
 
-- Learning Resources
-- Internships
-- Jobs
-- Career Roadmaps
+**Features:**
+
+* 🖼️ Image classification
+* 🧠 CNN model
+* 🔥 Fire detection
+* 📊 Model evaluation
+
+**Tech:** `Python` `TensorFlow` `Keras` `CNN`
 
 ---
 
-# 📊 GitHub Stats
+## 🤖 AI Smart Interview System
+
+An AI-focused project designed to help students prepare for technical interviews.
+
+**Features:**
+
+* 🎤 Interview questions
+* 🤖 AI-assisted evaluation
+* 📊 Performance analysis
+* 💡 Personalized feedback
+
+**Tech:** `AI/ML` `JavaScript` `Supabase` `APIs`
+
+---
+
+## 🎯 Level Up Platform
+
+A career-focused platform helping students discover opportunities and improve their skills.
+
+**Includes:**
+
+* 📚 Learning resources
+* 💼 Internships
+* 🧑‍💻 Job opportunities
+* 🗺️ Career roadmaps
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sumanth4411&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumanth4411&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth4411&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumanth4411&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth4411&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
 ---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sumanth4411&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanth4411&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanth4411&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 Achievements
 
-<p align="left">
+* 🏅 OpenAI × NxtWave Ideathon Finalist
+* 🎓 Unstop Campus Ambassador
+* 🌟 Selected as Unstop Campus Champion
+* 🚀 Participated in technology challenges and hackathons
+* 💻 Built multiple AI/ML and web development projects
+
+---
+
+# 📚 Currently Learning
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 🔥 Deep Learning
+* 🌐 Modern Web Development
+* ☁️ Cloud Technologies
+* 🚀 Generative AI
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/syrigapu-sumanth-8a2a072b6/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://github.com/Sumanth4411">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://sumanthai.netlify.app/">
-🌐 Portfolio
+<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
 </a>
 
 </p>
 
 ---
 
-## 💻 Coding Profiles
+# 💻 Coding Profiles
 
-- 💙 CodeChef: https://www.codechef.com/users/sumanth4411
+💙 **CodeChef:** https://www.codechef.com/users/sumanth4411
 
 ---
 
-## ✨ Quote
+## ✨ My Philosophy
 
-> "Code. Learn. Build. Improve. Repeat."
+> **"Code. Learn. Build. Improve. Repeat."**
 
 ---
 
 <p align="center">
-
-### Thanks for visiting my profile ❤️
-
-⭐ Don't forget to star my repositories if you find them useful!
-
+  ⭐ If you find my projects useful, consider giving them a star!
 </p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ❤️</b>
+</p>
+
