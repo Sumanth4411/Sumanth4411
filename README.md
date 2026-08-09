@@ -158,11 +158,6 @@ A career-focused platform helping students discover opportunities and improve th
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sumanth4411&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth4411&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
-
----
 
 # 🔥 GitHub Streak
 
