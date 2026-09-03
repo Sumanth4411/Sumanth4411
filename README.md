@@ -178,6 +178,8 @@ A career-focused platform helping students discover opportunities and improve th
 </p>
 
 ---
+
+<h2>🐍 Contribution Activity</h2>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
