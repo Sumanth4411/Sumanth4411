@@ -178,15 +178,20 @@ A career-focused platform helping students discover opportunities and improve th
 </p>
 
 ---
-<h2>🐍 Contribution Activity</h2>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sumanth4411/Sumanth4411/output/github-contribution-grid-snake-dark.svg">
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Sumanth4411/Sumanth4411/output/github-contribution-grid-snake.svg"
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sumanth4411/Sumanth4411/output/github-contribution-grid-snake.svg">
+
+  <img
     alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</p>
+    src="https://raw.githubusercontent.com/Sumanth4411/Sumanth4411/output/github-contribution-grid-snake.svg"
+    width="100%">
+</picture>
 
 ---
 
