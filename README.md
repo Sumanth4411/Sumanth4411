@@ -178,11 +178,14 @@ A career-focused platform helping students discover opportunities and improve th
 </p>
 
 ---
-
-# 📈 Contribution Graph
+<h2>🐍 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumanth4411&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img 
+    src="https://raw.githubusercontent.com/Sumanth4411/Sumanth4411/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
